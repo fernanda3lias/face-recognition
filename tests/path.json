@@ -1,0 +1,4 @@
+{
+ "CameraID": 0,
+ "FrontalCascade": "./module/source/haarcascade_frontalface_default.xml"
+}
