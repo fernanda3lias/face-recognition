@@ -21,8 +21,8 @@ class FaceDetector:
         faces = self.frontal_face_cascade.detectMultiScale(
             frame,
             scaleFactor = 1.2,
-            minNeighbors = 5,
-            minSize = (20, 20)
+            minNeighbors = 10,
+            minSize = (60, 60)
         )
 
         return faces
