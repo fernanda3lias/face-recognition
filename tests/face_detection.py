@@ -1,6 +1,7 @@
 import cv2
 import sys
 import json
+import imutils
 import numpy as np
 
 class FaceDetector:
@@ -13,6 +14,7 @@ class FaceDetector:
 
     def transform_image(self) -> np.ndarray:
         ret, frame = self.capture.read()
+        frame = imutils.resize(frame, 640)
         grayscale_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
         return grayscale_frame
