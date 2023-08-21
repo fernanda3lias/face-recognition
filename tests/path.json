@@ -1,5 +1,6 @@
 {
  "CameraID": 0,
  "Dataset": "./module/dataset/",
- "FrontalCascade": "./module/source/haarcascade_frontalface_default.xml"
+ "FrontalCascade": "./module/source/haarcascade_frontalface_default.xml",
+ "TrainedModel": "./module/source/trainer.yml"
 }
