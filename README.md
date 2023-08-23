@@ -11,7 +11,6 @@
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
@@ -27,13 +26,31 @@
 
 - Python and libraries listed in the `requirements.txt`.
 
-### Installation
+## Usage
 
-<h4 align="center"> :construction:  Project in construction :construction:
-</h4>
+1. Assign different IDs to each person.
 
+2. Real time face detection and recognition.
+
+3. Can be used on Raspberry Pi.
+
+## Contributing
+
+Contributions are welcome! Here's how you can get involved:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Submit a pull request.
 
 <h3> Developer </h3>
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/92958458?v=4" width=115><br><sub>ꜰᴇʀɴᴀɴᴅᴀ</sub>](https://github.com/fernanda3lias) |
 | :---: | 
+
+
+
+
+
+
+
