@@ -1,4 +1,4 @@
-<h1 > face-recognition - Facial Recognition Software</h1>
+<h1 > face-recognition</h1>
 <p >
 <img loading="lazy" src="https://img.shields.io/badge/status-sprint%20review-orange"/></p>
 
