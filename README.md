@@ -24,7 +24,7 @@
 
 ### Prerequisites
 
-- Python and libraries listed in the `requirements.txt`.
+- Python and libraries listed in `requirements.txt`.
 
 ## Usage
 
