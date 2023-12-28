@@ -1,5 +1,5 @@
 <h1 align="center"> face-recognition</h1>
-<p >
+<p align="center">
 <img loading="lazy" src="https://img.shields.io/badge/status-sprint%20review-orange"/></p>
 
 This software enables you to build your own detection model by utilizing facial images and associating them with unique IDs
