@@ -4,16 +4,6 @@
 
 This software enables you to build your own detection model by utilizing facial images and associating them with unique IDs
 
-<p align="center" ><img loading="lazy" src="https://github.com/fernanda3lias/face-recognition/blob/main/tests/example.jpeg?raw=true" width=450/></p>
-
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-- [Usage](#usage)
-- [Contributing](#contributing)
-
 ## Features
 
 - Code for capturing facial photos for model training.
@@ -42,11 +32,6 @@ Contributions are welcome! Here's how you can get involved:
 2. Create a new branch.
 3. Make your changes.
 4. Submit a pull request.
-
-<h3> Developer </h3>
-
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/92958458?v=4" width=115><br><sub>ꜰᴇʀɴᴀɴᴅᴀ</sub>](https://github.com/fernanda3lias) |
-| :---: | 
 
 
 
