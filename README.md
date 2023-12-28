@@ -2,7 +2,7 @@
 <p >
 <img loading="lazy" src="https://img.shields.io/badge/status-sprint%20review-orange"/></p>
 
-`face-recognition` is a software that helps you train your own detection model using images of faces and assign IDs to them.
+This software enables you to build your own detection model by utilizing facial images and associating them with unique IDs
 
 <p align="center" ><img loading="lazy" src="https://github.com/fernanda3lias/face-recognition/blob/main/tests/example.jpeg?raw=true" width=450/></p>
 
